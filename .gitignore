@@ -9,3 +9,6 @@ data/__pycache__/aphid4k.cpython-311.pyc
 __pycache__/solver.cpython-311.pyc
 data/__pycache__/aphid4k.cpython-311.pyc
 data/__pycache__/aphid4k.cpython-311.pyc
+data/__pycache__/augmentations.cpython-311.pyc
+data/__pycache__/augmentations.cpython-37.pyc
+*.pyc
